@@ -6,3 +6,9 @@ vitejs(vitejs.dev)项目模板。
 
 pnpm<br>
 vitejs
+
+## 构建
+
+运行项目：
+
+pnpm run dev
