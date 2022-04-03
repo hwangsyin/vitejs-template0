@@ -1,0 +1,1 @@
+alert("vitejs-template0");
